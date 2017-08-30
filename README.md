@@ -7,11 +7,11 @@
 
 #### For reference please see screenshot below.
 
-![alt text](https://github.com/pmservice/drug-selection/blob/master/public/img/drug_dashboard.jpg "Dashboard")
+![alt text](https://github.com/irhms/Heartrate-/tree/master/public/img/drug_dashboard.jpg "Dashboard")
 
 #### After successful models upload deployed application should provide scoring capability as shown below.
 
-![alt text](https://github.com/pmservice/drug-selection/blob/master/public/img/heart_app.jpg  "Application")
+![alt text](https://github.com/irhms/Heartrate-/tree/master/public/img/heart_app.jpg  "Application")
 
 
 # Deploying the prebuilt app
