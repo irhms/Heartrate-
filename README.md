@@ -1,8 +1,8 @@
 # About
-#### Drug Selection for Treating Heart Problems - sample application takes inputs found to be primary predictors in drug selection for treating heart problems and predicts the drug it believes to be the best choice for the patient.
+#### Drug Selection for Treating High BP and CHolestrol patients - sample application takes inputs found to be primary predictors in drug selection for treating High BP and CHolestrol based heart problems and predicts the drug it believes to be the best choice for the patient.
 
 # Prerequisites
-#### Model available in \model subdirectory (Drug1n.str) has to be uploaded to the Watson Machine Learning instance using Dashboard (drop box). Make sure that uploaded model is named correctly (contextID=drug1N).
+#### Model available in \model subdirectory (Drug1n.str) has to be uploaded to the Watson Machine Learning instance using Dashboard (drag and drop). Make sure that uploaded model is named correctly (contextID=drug1N).
 #### Drug1n.str --> drug1N
 
 #### For reference please see screenshot below.
