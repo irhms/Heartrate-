@@ -14,8 +14,8 @@
 ![alt text](https://github.com/irhms/Heartrate-/tree/master/public/img/heart_app.jpg  "Application")
 
 
-# Deploying the prebuilt app
-For a fast start, you can deploy the app to Bluemix by clicking the following button:
+# Deploying the HeartRate Health Statistics app in a Click
+For a fast start, the app can be deployed to Bluemix by clicking the following button:
 
 [![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/irhms/Heartrate-&appName=heartrate&branch=master)
 
